@@ -1,6 +1,5 @@
 ## Hi there, I'm Khalid Ibrahim Musa 👋
 
-<!--
 **Django Full Stack web developer** from Nigeria
 I specilized in building secure, fast, and maintainable web applications using **Django(python)** + modern **HTML, CSS & Vanilla JavaScript**.
 
@@ -13,8 +12,10 @@ Turning business problems into simple, functional tools is what i have love doin
 - **Deployment**: PythonAnyWhere, Render, Railway
 - **TOOLS**: Git, GitHub, VS Code
 
-### 🚀 Current Focus
-Building a strong portfolios of real-word projects (Task Manager, Blog CMS, Inventory System) to start taking freelance clients.
+### 🚀 Currently Building
+- Task Manager App
+- Blog CMS with Admin panel
+- Inventory System
 
 ### 📫 Open for Freelance Work
 - Django Admin Panel
