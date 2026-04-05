@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Khalid Ibrahim Musa 👋
 
 <!--
-**kimco001/kimco001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Django Full Stack web developer** from Nigeria
+I specilized in building secure, fast, and maintainable web applications using **Django(python)** + modern **HTML, CSS & Vanilla JavaScript**.
 
-Here are some ideas to get you started:
+Turning business problems into simple, functional tools is what i have love doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️Tech Stack
+- **Backend**: Django, python
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Database**: SQLite, PostreSQL
+- **Deployment**: PythonAnyWhere, Render, Railway
+- **TOOLS**: Git, GitHub, VS Code
+
+### 🚀 Current Focus
+Building a strong portfolios of real-word projects (Task Manager, Blog CMS, Inventory System) to start taking freelance clients.
+
+### 📫 Open for Freelance Work
+- Django Admin Panel
+- Custom Web Apps & CRMs
+- Booking / Inventory Systems
+- Bug fixes & Feature additions
+
+**Available for samll to medium projects.**
+
+- Email: khalidibrahimmusa8@gmail.com
+- LinkedIn:
+- Location: Nigeria
+
+---
+*On Week 1 of my 12-Week roadmap to freelance success! Let's build something great together.* 
