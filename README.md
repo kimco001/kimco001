@@ -24,7 +24,7 @@ I build secure, fast and easy-to-maintain web applications using **Django (Pytho
 **Available for small to medium projects.**
 
 ### 📫 Get in Touch
-- Email: [put your email]  
+- Email: khalidibrahimmusa8@gmail.com  
 - Location: Nigeria
 
 ---
